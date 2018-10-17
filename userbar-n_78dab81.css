@@ -1,0 +1,14 @@
+.wgt-userbar.wgt-userbar-n li {
+    position: relative;
+    float: left;
+    outline: 0;
+    text-decoration: underline;
+    font-family: 'arial'
+}
+
+.wgt-userbar.wgt-userbar-n li a{
+    position: relative;
+    float: left;
+    outline: 0;
+    text-decoration: underline;
+}
